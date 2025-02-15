@@ -13,6 +13,7 @@
 
 ## 🔑 Setup - Get Your API Keys
 Before running the app, grab API keys from these services:
+
 🔹 [AssemblyAI API Key](https://www.assemblyai.com/dashboard/signup)  
 🔹 [OpenAI API Key](https://platform.openai.com/api-keys)  
 🔹 [ElevenLabs API Key](https://elevenlabs.io/app/sign-in)  
